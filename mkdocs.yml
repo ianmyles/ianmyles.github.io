@@ -3,4 +3,3 @@ site_url: https://ianmyles.github.io
 nav:
     - Home: index.md
     - Docs: docs/index.md
-theme: pages-themes/minimal
