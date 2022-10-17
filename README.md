@@ -1,3 +1,3 @@
 # ianmyles.github.io
 
-[Linked](/docs/index.md)
+# [Linked](/docs/index.md)
