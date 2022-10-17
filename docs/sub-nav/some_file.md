@@ -1,3 +1,6 @@
-# This is Ssome File
+---
+parent: docs
+---
+# This is Some File
 
 Lorem ipsum dolor.
