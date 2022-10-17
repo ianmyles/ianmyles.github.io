@@ -3,3 +3,4 @@ site_url: https://ianmyles.github.io
 nav:
     - Home: index.md
     - Docs: docs/index.md
+remote_theme: just-the-docs/just-the-docs
