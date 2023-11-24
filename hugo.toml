@@ -1,0 +1,4 @@
+baseURL = 'https://ianmyles.github.io'
+languageCode = 'en-us'
+title = 'ian myles'
+theme = "archie"

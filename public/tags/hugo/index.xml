@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on ian myles</title>
+    <link>https://ianmyles.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on ian myles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Nov 2023 21:51:16 +0000</lastBuildDate>
+    <atom:link href="https://ianmyles.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Harnessing the Power of GitHub Pages: A Developer’s Ultimate Guide</title>
+      <link>https://ianmyles.github.io/posts/github-pages/</link>
+      <pubDate>Fri, 24 Nov 2023 21:51:16 +0000</pubDate>
+      <guid>https://ianmyles.github.io/posts/github-pages/</guid>
+      <description>Introduction In the ever-evolving world of web development, GitHub Pages stands out as a unique and powerful tool. It’s not just a hosting service; it’s a testament to the innovative spirit of developers worldwide. In this guide, we’ll delve into the intricacies of GitHub Pages, uncover its potential, and guide you through leveraging it for your projects. What is GitHub Pages?
+GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website.</description>
+    </item>
+  </channel>
+</rss>
