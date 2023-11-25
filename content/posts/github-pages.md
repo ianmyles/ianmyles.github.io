@@ -23,11 +23,14 @@ tags: [Github
 
 ## Introduction
 
-In the ever-evolving world of web development, GitHub Pages stands out as a unique and powerful tool. It’s not just a hosting service; it’s a testament to the innovative spirit of developers worldwide. In this guide, we’ll delve into the intricacies of GitHub Pages, uncover its potential, and guide you through leveraging it for your projects. What is GitHub Pages?
+In the ever-evolving world of web development, GitHub Pages stands out as a unique and powerful tool. It’s not just a hosting service; it’s a testament to the innovative spirit of developers worldwide. In this guide, we’ll delve into the intricacies of GitHub Pages, uncover its potential, and guide you through leveraging it for your projects. 
+
+
+### What is GitHub Pages?
 
 GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website. It’s ingeniously integrated into GitHub’s workflow, making it a go-to choice for developers looking to showcase their projects, host blog sites, or even maintain documentation.
 
-## Getting Started with GitHub Pages
+### Getting Started with GitHub Pages
 
 **1. Creating a Repository**
 
@@ -41,7 +44,7 @@ Upload your HTML, CSS, and JavaScript files to the repository. You can also use 
 
 Go to your repository settings and under the “GitHub Pages” section, select the source branch and save. Voilà! Your site is live.
 
-##  Advantages of GitHub Pages
+###  Advantages of GitHub Pages
 
 **Free Hosting:** GitHub Pages is free, making it an excellent option for personal projects or portfolios.
 
@@ -51,7 +54,7 @@ Go to your repository settings and under the “GitHub Pages” section, select 
 
 **Ease of Use:** The simplicity of setting up a site on GitHub Pages is unmatched.
 
-## Use Cases for GitHub Pages
+### Use Cases for GitHub Pages
 
 **Project Showcases:** Exhibit your coding projects in a neat, accessible format.
 
@@ -59,7 +62,7 @@ Go to your repository settings and under the “GitHub Pages” section, select 
 
 **Documentation:** Host documentation for your software projects, making it easily accessible to users.
 
-## Tips and Tricks
+### Tips and Tricks
 
 **Custom 404 Pages:** Enhance user experience by creating custom 404 error pages.
 
@@ -67,7 +70,7 @@ Go to your repository settings and under the “GitHub Pages” section, select 
 
 **Responsive Design:** Ensure your site is mobile-friendly to reach a wider audience.
 
-## Conclusion
+### Conclusion
 
 GitHub Pages offers an easy, effective, and free way to host websites. Whether you’re a seasoned developer or just starting out, GitHub Pages is an invaluable tool in your web development arsenal. Start experimenting with it today and unleash the full potential of your projects!
 
