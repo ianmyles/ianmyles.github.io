@@ -1,5 +1,5 @@
 ---
-title: 'Harnessing the Power of GitHub Pages: A Developer’s Ultimate Guide'
+title: 'Harnessing the Power of GitHub Pages: A Developer’s Guide'
 date: 2023-11-24T21:51:16Z
 draft: false  
 tags: [Github
